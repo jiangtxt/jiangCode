@@ -1,1 +1,0 @@
-import{_ as e}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{o,B as c}from"./vendor-CuV_MyP-.js";const n={};function r(t,s){return o(),c("div",null,"actions")}const f=e(n,[["render",r]]);export{f as default};
